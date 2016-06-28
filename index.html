@@ -3,21 +3,24 @@
 <head>
   <meta charset="utf-8">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-  <script src="quote-generator.js"></script>
   <title></title>
 </head>
 <body>
   <div class="container">
     <div class="row well">
-      <div class="col-md-8 col-xs-offset-4">
-        <h3 class="random-quotes"></h3>
+      <div class="col-md-4 col-xs-offset-4">
+        <h3 id="random-quotes"></h3>
+      </div>
+      <div class="col-md-4 col-xs-offset-4">
+        <h3 id="random-author"></h3>
       </div>
     </div>
     <div class="row">
       <div class="col-md-8 col-xs-offset-4">
-        <button type="button" name="generate-quote">Quotes</button>
+        <button type="button" name="generate-quote" onclick="generateQuote()">Quote Life!</button>
       </div>
     </div>
   </div>
+  <script src="quote-generator.js"></script>
 </body>
 </html>

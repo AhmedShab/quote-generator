@@ -4,23 +4,23 @@
     quote: "What we think, or what we know, or what we believe is, in the end, of little consequence. The only consequence is what we do"
     author: "—John Ruskin"
 
-    quote:
-    author:
+    quote:. You must be the change you wish to see in the world.
+    Author Gandhi
 
-    quote:
-    author:
+    quote:  Try a thing you haven’t done three times. Once, to get over the fear of doing it. Twice, to learn how to do it. And a third time, to figure out whether you like it or not.
+    author:—Virgil Garnett Thomson
 
-    quote:
-    author:
+    quote:Even if you’re on the right track, you’ll get run over if you just sit there.
+    author: —Will Rogers
 
-    quote:
-    author:
+    quote: "the problem with quotes found on the internet is they are often not true"
+    author: Abraham Lincoln
 
-    quote:
-    author:
+    quote: Everything should be made as simple as possible, but not simpler. - Albert Einstein
+    author:Albert Einstein
 
-    quote:
-    author:
+    quote: “Be yourself; everyone else is already taken.”
+    author: ― Oscar Wilde
 
-    quote:
-    author:
+    quote: “You only live once, but if you do it right, once is enough.”
+    author: ― Mae West
