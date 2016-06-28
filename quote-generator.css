@@ -1,0 +1,25 @@
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.oragne {
+    background-color: orange;
+}
+
+.center {
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
